@@ -1,5 +1,6 @@
 <div align="center">
 
+![VLM Mastery Banner](assets/banner.png)
 # 🌌 VLM Mastery
 **Master Vision-Language Models by building them from the ground up.**
 
