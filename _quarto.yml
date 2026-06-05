@@ -57,6 +57,3 @@ format:
     code-tools: true
     code-copy: true
     highlight-style: github
-
-execute:
-  freeze: auto
