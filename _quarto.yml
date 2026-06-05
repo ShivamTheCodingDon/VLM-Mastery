@@ -9,42 +9,40 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Parts"
+      - text: "01. Fundamentals"
         menu:
-          - section: "01. Fundamentals"
-            menu:
-              - text: "01. Minimal VLM"
-                href: 01-Fundamentals/01-Minimal_VLM.ipynb
-          - section: "02. Core Vision Tasks"
-            menu:
-              - text: "01. Object Detection"
-                href: 02-Core_Vision_Tasks/01-Object_Detection.ipynb
-              - text: "02. Visual QA"
-                href: 02-Core_Vision_Tasks/02-Visual_QA.ipynb
-              - text: "03. Referring Segmentation"
-                href: 02-Core_Vision_Tasks/03-Referring_Segmentation.ipynb
-          - section: "03. Advanced Interactions"
-            menu:
-              - text: "01. Multi Task"
-                href: 03-Advanced_Interactions/01-Multi_Task.ipynb
-              - text: "02. Multi Image"
-                href: 03-Advanced_Interactions/02-Multi_Image.ipynb
-              - text: "03. Task Routing"
-                href: 03-Advanced_Interactions/03-Task_Routing.ipynb
-              - text: "04. Chain of Thought"
-                href: 03-Advanced_Interactions/04-Chain_Of_Thought.ipynb
-          - section: "04. Generative & Editing"
-            menu:
-              - text: "01. Image Editing"
-                href: 04-Generative_and_Editing/01-Image_Editing.ipynb
-              - text: "02. Image Generation"
-                href: 04-Generative_and_Editing/02-Image_Generation.ipynb
-          - section: "05. Optimization & Specialized"
-            menu:
-              - text: "01. Compression"
-                href: 05-Optimization_and_Specialized/01-Compression.ipynb
-              - text: "02. OCR to LaTeX"
-                href: 05-Optimization_and_Specialized/02-OCR_LaTeX.ipynb
+          - text: "01. Minimal VLM"
+            href: 01-Fundamentals/01-Minimal_VLM.ipynb
+      - text: "02. Core Vision Tasks"
+        menu:
+          - text: "01. Object Detection"
+            href: 02-Core_Vision_Tasks/01-Object_Detection.ipynb
+          - text: "02. Visual QA"
+            href: 02-Core_Vision_Tasks/02-Visual_QA.ipynb
+          - text: "03. Referring Segmentation"
+            href: 02-Core_Vision_Tasks/03-Referring_Segmentation.ipynb
+      - text: "03. Advanced Interactions"
+        menu:
+          - text: "01. Multi Task"
+            href: 03-Advanced_Interactions/01-Multi_Task.ipynb
+          - text: "02. Multi Image"
+            href: 03-Advanced_Interactions/02-Multi_Image.ipynb
+          - text: "03. Task Routing"
+            href: 03-Advanced_Interactions/03-Task_Routing.ipynb
+          - text: "04. Chain of Thought"
+            href: 03-Advanced_Interactions/04-Chain_Of_Thought.ipynb
+      - text: "04. Generative & Editing"
+        menu:
+          - text: "01. Image Editing"
+            href: 04-Generative_and_Editing/01-Image_Editing.ipynb
+          - text: "02. Image Generation"
+            href: 04-Generative_and_Editing/02-Image_Generation.ipynb
+      - text: "05. Optimization & Specialized"
+        menu:
+          - text: "01. Compression"
+            href: 05-Optimization_and_Specialized/01-Compression.ipynb
+          - text: "02. OCR to LaTeX"
+            href: 05-Optimization_and_Specialized/02-OCR_LaTeX.ipynb
     right:
       - icon: github
         href: https://github.com/ShivamTheCodingDon/VLM-Mastery
