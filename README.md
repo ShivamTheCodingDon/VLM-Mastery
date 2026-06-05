@@ -10,8 +10,7 @@
 
 A comprehensive 12-part journey from a simple image captioner to advanced multi-modal AI systems. **No magic, no black boxes** — just pure understanding.
 
-[**Explore the Interactive Website**](https://ShivamTheCodingDon.github.io/VLM-Mastery/)
-<br/>
+
 
 </div>
 
